@@ -1,0 +1,14 @@
+ Bug Title: High to Low sort does not work
+
+Description: The functionality of sorting the products from price range high to low does not qork, it gets stuck on "Loading"
+
+The steps required to reproduce: Select a category of clothes, Women's dresses in this case. Use the 'sort by' drop down menu to sort 
+the displayed items in High to low range of price.
+
+Environment: Google Chrome
+
+Expected results: Display of items in high to low price range.
+
+Assigned to: Vedang Kolhatkar
+
+Severity: Minor
