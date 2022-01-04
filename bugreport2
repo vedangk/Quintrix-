@@ -1,0 +1,13 @@
+ Bug Title: Phone number fields Allows for Invalid Phone Numbers
+
+Description: The home and mobile phone number fields in Address accepts any numerical value
+
+The steps reequired to reproduce: Register for an account, enter email address which takes you to the address page. Enter any invalid phone number in the phone number fields.
+
+Environment: Google Chrome
+
+Expected results: Error message stating the need for a valid number for the field.
+
+Assigned to: Vedang Kolhatkar
+
+Severity: Minor

@@ -1,0 +1,15 @@
+Bug Title: Search Location Only Returns "Not Found"
+
+Description: Any search query into the "your location" bar will fail to return results from the search,
+returning with a "[input] not found" message.
+
+The steps nrequired to reproduce: Go to "Our Stores" listed under information, 
+type in a qury in the "your location" bar and click the search button.
+
+Environment: Google Chrome
+
+Expected results: Returns a list of locations 
+
+Assigned to: Vedang Kolhatkar
+
+Severity: Minor
